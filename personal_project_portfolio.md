@@ -6,7 +6,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 
 ## Featured Projects
 
-### Vectorizer (Rust)
+### [Vectorizer](https://github.com/instance-id/vectorizer) (Rust)
 **Text Embedding Generator and Vector Database Integration**
 
 - Built a high-performance text embedding tool in Rust that processes project files for AI retrieval
@@ -22,22 +22,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Implemented sophisticated error handling with anyhow and custom error propagation
 - Created command-line progress indicators with automatic refresh for better UX
 
-### Tree-Sitter-Cyber (Rust/JavaScript)
-**Custom Parser for the Cyber Language**
-
-- Developed a complete Tree-sitter grammar for the Cyber scripting language
-- Created syntax highlighting queries for advanced code visualization
-- Implemented complex parsing rules to handle the language's unique syntax
-- Built support for editor integration across multiple platforms
-
-**Technical Highlights:**
-- Created precise grammar definitions in JavaScript using Tree-sitter's DSL
-- Implemented custom precedence rules for complex expression parsing
-- Generated optimized Rust parser code from Tree-sitter grammar
-- Developed custom highlighting queries for semantic tokens
-- Built cross-platform compatibility with WASM compilation support
-
-### Cyber Language Server (Rust)
+### [Cyber Language Server](https://github.com/instance-id/cyber-language-server) (Rust)
 **LSP Implementation for the Cyber Language**
 
 - Developed a full Language Server Protocol implementation in Rust
@@ -52,7 +37,22 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Designed thorough error handling with anyhow and custom error types
 - Built with tracing for comprehensive logging and diagnostics
 
-### NCM-RS (Rust)
+### [Tree-Sitter-Cyber](https://github.com/instance-id/tree-sitter-cyber) (Rust/JavaScript)
+**Custom Parser for the Cyber Language**
+
+- Developed a complete Tree-sitter grammar for the Cyber scripting language
+- Created syntax highlighting queries for advanced code visualization
+- Implemented complex parsing rules to handle the language's unique syntax
+- Built support for editor integration across multiple platforms
+
+**Technical Highlights:**
+- Created precise grammar definitions in JavaScript using Tree-sitter's DSL
+- Implemented custom precedence rules for complex expression parsing
+- Generated optimized Rust parser code from Tree-sitter grammar
+- Developed custom highlighting queries for semantic tokens
+- Built cross-platform compatibility with WASM compilation support
+
+### [NCM-RS](https://github.com/instance-id/ncm-rs) (Rust)
 **Neovim Configuration Manager**
 
 - Built a Rust-based tool for managing multiple Neovim configurations
@@ -68,7 +68,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Implemented comprehensive error handling with anyhow and Result propagation
 - Followed best practices for command-line documentation and help text
 
-### NotifyDB (Rust)
+### [NotifyDB](https://github.com/instance-id/notifydb) (Rust)
 **Linux Notification Database and Manager**
 
 - Created a Rust-based D-Bus notification store that captures and archives system notifications
@@ -82,7 +82,20 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Multi-threaded architecture handling both UI and background notification monitoring
 - Cross-platform Flutter UI with responsive design
 
-### Searcher (Python)
+### [Voice Assistant](https://github.com/instance-id/voice_assistant)
+**Voice Command Processing System**
+- Developed a system for receiving and processing voice commands
+- Integrated with speech recognition technologies for accurate transcription
+- Created action handlers to respond to specific voice triggers
+- Built a modular system extensible for various home automation needs
+
+**Technical Highlights:**
+- Low-latency audio processing pipeline
+- Whisper integration for high-quality speech recognition
+- Extensible plugin architecture for custom commands
+- Cross-platform compatibility for various operating systems
+
+### [Searcher](https://github.com/instance-id/Searcher) (Python)
 **Houdini Asset Search Tool**
 
 - Developed a specialized search tool for Houdini, enabling efficient content discovery
@@ -96,7 +109,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Custom Python Panel UI integration for seamless Houdini embedding
 - Optimized for performance with large asset libraries
 
-### Verifier (Python)
+### [Verifier](https://github.com/instance-id/verifier) (Python)
 **Asset Verification System**
 
 - Developed a comprehensive verification system that integrates with Discord to validate legitimate asset purchases
@@ -110,7 +123,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Discord API integration with permission management
 - Extensible design for adding new verification features
 
-### High-Tech Camera Overlay System (Python)
+### [Camera Overlay System](https://github.com/instance-id/tracking_overlay) (Python)
 **Advanced Visual Interface for Camera Feeds**
 
 - Created a customizable video feed overlay system with high-tech visual interface
@@ -139,21 +152,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Cross-platform compatibility and deployment options
 - Practical applications solving real-world detection challenges
 
-### Voice Assistant Receiver
-**Voice Command Processing System**
-
-- Developed a system for receiving and processing voice commands
-- Integrated with speech recognition technologies for accurate transcription
-- Created action handlers to respond to specific voice triggers
-- Built a modular system extensible for various home automation needs
-
-**Technical Highlights:**
-- Low-latency audio processing pipeline
-- Whisper integration for high-quality speech recognition
-- Extensible plugin architecture for custom commands
-- Cross-platform compatibility for various operating systems
-
-### ProStream (Unity/C#)
+### ProStream (Unity/C# WIP Asset)
 **Advanced Scene Streaming System for Unity**
 
 - Developed a sophisticated scene management solution that dynamically loads and unloads Unity scenes based on proximity
