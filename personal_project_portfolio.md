@@ -189,7 +189,6 @@ As a versatile software engineer with expertise at the intersection of Rust and 
   - Tree-sitter grammar development
   - DSL implementation for language parsing
 - **C#/Unity**: Game development and interactive applications
-- **CUDA/OpenCL**: GPU acceleration for performance-critical applications
 
 ### Developer Tools Engineering
 - Command-line interface design with user experience focus
