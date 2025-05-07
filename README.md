@@ -24,6 +24,9 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 ## Featured Projects
 
 ### Vectorizer (Rust)
+
+<details>
+ 
 **Text Embedding Generator and Vector Database Integration**
 
 - Built a high-performance text embedding tool in Rust that processes project files for AI retrieval
@@ -39,10 +42,13 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Leveraged lazy_static for thread-safe global configuration with RwLock
 - Implemented sophisticated error handling with anyhow and custom error propagation
 - Created command-line progress indicators with automatic refresh for better UX
+</details>
 
 ### Tree-Sitter-Cyber (Rust/JavaScript)
-**Custom Parser for the Cyber Language**
 
+<details>
+
+**Custom Parser for the Cyber Language**
 - Developed a complete Tree-sitter grammar for the Cyber scripting language
 - Created syntax highlighting queries for advanced code visualization
 - Implemented complex parsing rules to handle the language's unique syntax
@@ -55,7 +61,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Developed custom highlighting queries for semantic tokens
 - Built cross-platform compatibility with WASM compilation support
 
+</details>
+
 ### Cyber Language Server (Rust)
+
+<details>
+
 **LSP Implementation for the Cyber Language**
 
 - Developed a full Language Server Protocol implementation in Rust
@@ -70,7 +81,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Designed thorough error handling with anyhow and custom error types
 - Built with tracing for comprehensive logging and diagnostics
 
+</details>
+
 ### NCM-RS (Rust)
+
+<details>
+
 **Neovim Configuration Manager**
 
 - Built a Rust-based tool for managing multiple Neovim configurations
@@ -86,7 +102,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Implemented comprehensive error handling with anyhow and Result propagation
 - Followed best practices for command-line documentation and help text
 
+</details>
+
 ### NotifyDB (Rust)
+
+<details>
+
 **Linux Notification Database and Manager**
 
 - Created a Rust-based D-Bus notification store that captures and archives system notifications
@@ -100,7 +121,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Multi-threaded architecture handling both UI and background notification monitoring
 - Cross-platform Flutter UI with responsive design
 
+</details>
+
 ### Searcher (Python)
+
+<details>
+ 
 **Houdini Asset Search Tool**
 
 - Developed a specialized search tool for Houdini, enabling efficient content discovery
@@ -114,7 +140,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Custom Python Panel UI integration for seamless Houdini embedding
 - Optimized for performance with large asset libraries
 
+</details>
+
 ### Verifier (Python)
+
+<details>
+
 **Asset Verification System**
 
 - Developed a comprehensive verification system that integrates with Discord to validate legitimate asset purchases
@@ -128,7 +159,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Discord API integration with permission management
 - Extensible design for adding new verification features
 
+</details>
+
 ### High-Tech Camera Overlay System (Python)
+
+<details>
+
 **Advanced Visual Interface for Camera Feeds**
 
 - Created a customizable video feed overlay system with high-tech visual interface
@@ -143,7 +179,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Docker support for various hardware platforms
 - Real-time video processing with optimized performance
 
+</details>
+
 ### Computer Vision Projects
+
+<details>
+
 **Object Detection and Vision Processing Tools**
 
 - Developed multiple computer vision applications focusing on real-time object detection
@@ -156,8 +197,13 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Hardware acceleration for optimal performance
 - Cross-platform compatibility and deployment options
 - Practical applications solving real-world detection challenges
+ 
+</details>
 
 ### Voice Assistant Receiver
+
+<details>
+
 **Voice Command Processing System**
 
 - Developed a system for receiving and processing voice commands
@@ -171,7 +217,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Extensible plugin architecture for custom commands
 - Cross-platform compatibility for various operating systems
 
+</details>
+
 ### ProStream (Unity/C#)
+
+<details>
+
 **Advanced Scene Streaming System for Unity**
 
 - Developed a sophisticated scene management solution that dynamically loads and unloads Unity scenes based on proximity
@@ -185,6 +236,8 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Distance-based loading optimization system
 - Persistent layer management for critical scene components
 - Integration with Unity's prefab system for optimal scene organization
+
+</details>
 
 ## Technical Skills Demonstrated
 
