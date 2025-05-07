@@ -1,7 +1,8 @@
 # Personal Projects Portfolio
 
 ## Technical Profile
-As a versatile software engineer with expertise at the intersection of Rust and Python, I've built a diverse portfolio of personal projects focusing on developer tools, language implementation, and high-performance systems. My work demonstrates particular strength in creating efficient, user-friendly tools that solve real-world development challenges.
+As a versatile software engineer with expertise at the intersection of Rust and Python, I've built a diverse portfolio of personal projects focusing on developer tools, language implementation, and high-performance systems.  
+My work demonstrates particular strength in creating efficient, user-friendly tools that solve real-world development challenges.
 
 ## Featured Projects
 
@@ -12,13 +13,12 @@ As a versatile software engineer with expertise at the intersection of Rust and 
 - Implemented integration with Qdrant vector database for storage and retrieval of embeddings
 - Created a configuration system supporting both global and per-project settings
 - Developed Neovim integration for automatic embedding of saved files
-- Used the All-MiniLm-L12-V2 model for generating high-quality text embeddings
+- Used the All-MiniLm-L(6/12)-V2 models for generating high-quality text embeddings
 
 **Technical Highlights:**
 - Implemented async processing with Tokio and thread management for optimal performance
 - Designed a robust CLI with clap that follows modern design patterns similar to Ruff and uv
 - Used mpsc channels and oneshot patterns for efficient inter-thread communication
-- Leveraged lazy_static for thread-safe global configuration with RwLock
 - Implemented sophisticated error handling with anyhow and custom error propagation
 - Created command-line progress indicators with automatic refresh for better UX
 
