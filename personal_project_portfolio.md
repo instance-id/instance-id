@@ -4,6 +4,47 @@
 As a versatile software engineer with expertise at the intersection of Rust and Python, I've built a diverse portfolio of personal projects focusing on developer tools, language implementation, and high-performance systems.  
 My work demonstrates particular strength in creating efficient, user-friendly tools that solve real-world development challenges.
 
+## Technical Skills Demonstrated
+
+### Languages & Frameworks
+- **Rust**: Systems programming with advanced patterns:
+  - Async programming with tokio and futures
+  - Thread management with mpsc channels and oneshot
+  - Error handling with anyhow and Result propagation
+  - Command-line interfaces with clap
+  - Thread-safe global state with RwLock and lazy_static
+  - Clean architecture with module separation
+  - Language Server Protocol implementation using tower-lsp
+  - Parser development with tree-sitter integration
+- **Python**: Developer tooling and language processing:
+  - Full-text search and indexing implementation
+  - Integration with system APIs and libraries
+  - Performance optimization for data processing
+  - API design and implementation
+- **JavaScript**: Language tooling and parser development:
+  - Tree-sitter grammar development
+  - DSL implementation for language parsing
+- **C#/Unity**: Game development and interactive applications
+
+### Developer Tools Engineering
+- Command-line interface design with user experience focus
+- Language implementation and parsing techniques
+- Incremental parser development for code analysis
+- Cross-platform tool development and distribution
+- Configuration management for flexible deployment
+
+### Software Architecture
+- Modular design with clear separation of concerns
+- Asynchronous processing patterns
+- Plugin-based systems for extensibility
+- Cross-platform compatibility considerations
+
+### AI/ML Integration
+- Vector embeddings for semantic search and retrieval
+- Computer vision and object detection models
+- Speech recognition and processing
+- Integration of ML models into production applications
+
 ## Featured Projects
 
 ### [Vectorizer](https://github.com/instance-id/vectorizer) (Rust)
@@ -167,43 +208,4 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Persistent layer management for critical scene components
 - Integration with Unity's prefab system for optimal scene organization
 
-## Technical Skills Demonstrated
 
-### Languages & Frameworks
-- **Rust**: Systems programming with advanced patterns:
-  - Async programming with tokio and futures
-  - Thread management with mpsc channels and oneshot
-  - Error handling with anyhow and Result propagation
-  - Command-line interfaces with clap
-  - Thread-safe global state with RwLock and lazy_static
-  - Clean architecture with module separation
-  - Language Server Protocol implementation using tower-lsp
-  - Parser development with tree-sitter integration
-- **Python**: Developer tooling and language processing:
-  - Full-text search and indexing implementation
-  - Integration with system APIs and libraries
-  - Performance optimization for data processing
-  - API design and implementation
-- **JavaScript**: Language tooling and parser development:
-  - Tree-sitter grammar development
-  - DSL implementation for language parsing
-- **C#/Unity**: Game development and interactive applications
-
-### Developer Tools Engineering
-- Command-line interface design with user experience focus
-- Language implementation and parsing techniques
-- Incremental parser development for code analysis
-- Cross-platform tool development and distribution
-- Configuration management for flexible deployment
-
-### Software Architecture
-- Modular design with clear separation of concerns
-- Asynchronous processing patterns
-- Plugin-based systems for extensibility
-- Cross-platform compatibility considerations
-
-### AI/ML Integration
-- Vector embeddings for semantic search and retrieval
-- Computer vision and object detection models
-- Speech recognition and processing
-- Integration of ML models into production applications
