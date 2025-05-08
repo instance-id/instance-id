@@ -5,9 +5,19 @@
 ## Technical Skills & Coding Strengths
 - **Advanced Scripting**: Demonstrated expertise in developing cross-platform PowerShell scripts with advanced features including parallel processing, threading, parameter validation, and sophisticated error handling
 - **Network Programming**: Created specialized network diagnostic tools including port scanners, TLS checkers, and connectivity validation tools that function across diverse environments
-- **System Integration**: Extensive experience integrating with AWS S3, handling secure file transfers, and building automation around cloud services
+- **System Integration**: Extensive experience integrating with AWS S3, Azure Devops, handling secure file transfers, and building automation around cloud services
 - **File System Expertise**: Developed specialized tools for detecting and resolving file system issues such as file locks, permission problems, and shared resource conflicts
 - **Cross-Platform Development**: Successfully designed tools that work seamlessly across Windows and Linux operating systems through intelligent platform detection and conditional logic
 - **Modular Code Design**: Consistently created reusable, well-documented functions with comprehensive parameter handling and informative help documentation
 - **Performance Optimization**: Implemented parallel processing, throttling mechanisms, and efficient connection handling in network tools to maximize performance
 
+## Role Tasks
+- Apache NiFi Customization & Administration
+- Python & PowerShell Automation
+- Cloud Platform Integration
+- ETL Pipeline Development
+- AWS S3 & Databricks Integration
+- Enterprise File Transfer Systems (EFT/SFTS)
+- Data Validation & Processing
+- API Integration & Development
+- System Monitoring & Reporting
