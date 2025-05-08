@@ -1,7 +1,7 @@
 # Personal Projects Portfolio
 
 ## Technical Profile
-As a versatile software engineer with expertise at the intersection of Rust and Python, I've built a diverse portfolio of personal projects focusing on developer tools, language implementation, and high-performance systems.  
+As a versatile software engineer I've built a diverse portfolio of personal projects focusing on developer tools, language implementation, and high-performance systems.  
 My work demonstrates particular strength in creating efficient, user-friendly tools that solve real-world development challenges.
 
 ## Technical Skills Demonstrated
