@@ -63,8 +63,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Implemented sophisticated error handling with anyhow and custom error propagation
 - Created command-line progress indicators with automatic refresh for better UX
 
-### [Cyber Language Server](https://github.com/instance-id/cyber-language-server) (Rust)
 ---
+### [Cyber Language Server](https://github.com/instance-id/cyber-language-server) (Rust)
 **LSP Implementation for the Cyber Language**
 
 - Developed a full Language Server Protocol implementation in Rust
@@ -79,8 +79,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Designed thorough error handling with anyhow and custom error types
 - Built with tracing for comprehensive logging and diagnostics
 
-### [Tree-Sitter-Cyber](https://github.com/instance-id/tree-sitter-cyber) (Rust/JavaScript)
 ---
+### [Tree-Sitter-Cyber](https://github.com/instance-id/tree-sitter-cyber) (Rust/JavaScript)
 **Custom Parser for the Cyber Language**
 
 - Developed a complete Tree-sitter grammar for the Cyber scripting language
@@ -95,8 +95,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Developed custom highlighting queries for semantic tokens
 - Built cross-platform compatibility with WASM compilation support
 
-### [ProStream](https://github.com/instance-id/ProStream) (Unity/C# WIP Asset)
 ---
+### [ProStream](https://github.com/instance-id/ProStream) (Unity/C# WIP Asset)
 **Advanced Unity Developer Tool for Scene Conversion and Streaming**
 
 - Created a comprehensive developer tool that automates the conversion of traditional GameObject scenes to DOTS entity subscenes
@@ -133,8 +133,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
   - Incorporated asynchronous search capabilities using Unity's SearchService for performant project-wide scanning
   - Implemented robust error reporting with detailed contextual information for resolving conversion issues
 
-### [NCM-RS](https://github.com/instance-id/ncm-rs) (Rust)
 ---
+### [NCM-RS](https://github.com/instance-id/ncm-rs) (Rust)
 **Neovim Configuration Manager**
 
 - Built a Rust-based tool for managing multiple Neovim configurations
@@ -151,8 +151,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Followed best practices for command-line documentation and help text
 
 
-### [NotifyDB](https://github.com/instance-id/notifydb) (Rust)
 ---
+### [NotifyDB](https://github.com/instance-id/notifydb) (Rust)
 **Linux Notification Database and Manager**
 
 - Created a Rust-based D-Bus notification store that captures and archives system notifications
@@ -166,8 +166,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Multi-threaded architecture handling both UI and background notification monitoring
 - Cross-platform Flutter UI with responsive design
 
-### [Voice Assistant](https://github.com/instance-id/voice_assistant) (C/Python/TS/JS)
 ---
+### [Voice Assistant](https://github.com/instance-id/voice_assistant) (C/Python/TS/JS)
 **Voice Command Processing System**
 - Developed a system for receiving and processing voice commands
 - Integrated with speech recognition technologies for accurate transcription
@@ -180,8 +180,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Extensible plugin architecture for custom commands
 - Cross-platform compatibility for various operating systems
 
-### [Searcher](https://github.com/instance-id/Searcher) (Python)
 ---
+### [Searcher](https://github.com/instance-id/Searcher) (Python)
 **Houdini Asset Search Tool**
 
 - Developed a specialized search tool for Houdini, enabling efficient content discovery
@@ -195,8 +195,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Custom Python Panel UI integration for seamless Houdini embedding
 - Optimized for performance with large asset libraries
 
-### [Verifier](https://github.com/instance-id/verifier) (Python)
 ---
+### [Verifier](https://github.com/instance-id/verifier) (Python)
 **Asset Verification System**
 
 - Developed a comprehensive verification system that integrates with Discord to validate legitimate asset purchases
@@ -210,8 +210,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Discord API integration with permission management
 - Extensible design for adding new verification features
 
-### [Camera Overlay System](https://github.com/instance-id/tracking_overlay) (Python)
 ---
+### [Camera Overlay System](https://github.com/instance-id/tracking_overlay) (Python)
 **Advanced Visual Interface for Camera Feeds**
 
 - Created a customizable video feed overlay system with high-tech visual interface
@@ -226,8 +226,8 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Docker support for various hardware platforms
 - Real-time video processing with optimized performance
 
+---https://github.com/instance-id/instance-id/blob/main/personal_project_portfolio.md
 ### Computer Vision Projects
----
 **Object Detection and Vision Processing Tools**
 
 - Developed multiple computer vision applications focusing on real-time object detection
