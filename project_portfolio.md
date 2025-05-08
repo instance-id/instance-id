@@ -1,4 +1,4 @@
-# Personal Projects Portfolio
+# Projects Portfolio
 
 ## Technical Profile
 As a versatile software engineer I've built a diverse portfolio of personal projects focusing on developer tools, language implementation, and high-performance systems.  
