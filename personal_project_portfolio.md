@@ -95,7 +95,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Developed custom highlighting queries for semantic tokens
 - Built cross-platform compatibility with WASM compilation support
 
-### ProStream (Unity/C# WIP Asset)
+### [ProStream](https://github.com/instance-id/ProStream) (Unity/C# WIP Asset)
 ---
 **Advanced Unity Developer Tool for Scene Conversion and Streaming**
 
