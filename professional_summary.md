@@ -12,7 +12,7 @@
 - **Performance Optimization**: Implemented parallel processing, throttling mechanisms, and efficient connection handling in network tools to maximize performance
 
 ## Role Tasks
-- Apache NiFi Customization & Administration
+- Apache NiFi Workflow/Processor Design & Development
 - Python & PowerShell Automation
 - Cloud Platform Integration
 - ETL Pipeline Development
