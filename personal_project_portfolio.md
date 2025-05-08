@@ -167,6 +167,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Cross-platform Flutter UI with responsive design
 
 ### [Voice Assistant](https://github.com/instance-id/voice_assistant) (C/Python/TS/JS)
+---
 **Voice Command Processing System**
 - Developed a system for receiving and processing voice commands
 - Integrated with speech recognition technologies for accurate transcription
