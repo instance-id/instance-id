@@ -46,7 +46,6 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Integration of ML models into production applications
 
 ## Featured Projects
----
 
 ### [Vectorizer](https://github.com/instance-id/vectorizer) (Rust)
 **Text Embedding Generator and Vector Database Integration**
