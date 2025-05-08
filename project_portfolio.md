@@ -1,7 +1,7 @@
 # Projects Portfolio
 
 ## Technical Profile
-As a versatile software engineer I've built a diverse portfolio of personal projects focusing on developer tools, language implementation, and high-performance systems.  
+As a versatile software engineer I've built a diverse portfolio of personal projects focusing on developer tools, language implementation, and high-performance systems.
 My work demonstrates particular strength in creating efficient, user-friendly tools that solve real-world development challenges.
 
 ## Technical Skills Demonstrated
@@ -12,29 +12,51 @@ My work demonstrates particular strength in creating efficient, user-friendly to
   - Thread management with mpsc channels and oneshot
   - Error handling with anyhow and Result propagation
   - Command-line interfaces with clap
-  - Thread-safe global state with RwLock and lazy_static
   - Clean architecture with module separation
-  - Language Server Protocol implementation using tower-lsp
+  - Language Server Protocol implementation
   - Parser development with tree-sitter integration
 - **Python**: Developer tooling and language processing:
-  - Full-text search and indexing implementation
   - Integration with system APIs and libraries
   - Performance optimization for data processing
+  - Concurrent processing with asyncio and threading
   - API design and implementation
-- **JavaScript**: Language tooling and parser development:
-  - Tree-sitter grammar development
+  - Full-text search and indexing implementation
+- **JavaScript/C++**: Language tooling and parser development:
+  - C++ scanner implementation for complex lexical analysis
+  - External scanner API integration for advanced parsing features
+  - Tree-sitter grammar development in JavaScript
   - DSL implementation for language parsing
-- **C#/Unity**: Game development and interactive applications
+- **C#/Unity**: Performance-oriented developer tooling:
+  - Advanced scene automation with intelligent analysis and processing
+  - DOTS/ECS architecture with automated GameObject-to-Entity conversion pipelines
+  - Performance optimization with Job system and Burst compilation
+  - Meticulous IL instruction/code path analysis for optimal SIMD utilization
+  - Unity editor tool development with intuitive UI/UX design
+  - Diagnostic engine frameworks with automated issue detection and resolution
+  - Scene streaming optimization with subscene management
+
+### Performance Engineering
+- Parallel processing and multi-threading optimization
+- Memory management and allocation strategies
+- Data structure optimization for minimal overhead
+- Cache-aware algorithms and data layout
+- CPU/GPU bottleneck identification and resolution
+- Profiling and performance metrics analysis
 
 ### Developer Tools Engineering
 - Command-line interface design with user experience focus
-- Language implementation and parsing techniques
+- Language server implementation and parsing techniques
 - Incremental parser development for code analysis
 - Cross-platform tool development and distribution
 - Configuration management for flexible deployment
+- Automated testing and verification systems
 
 ### Software Architecture
 - Modular design with clear separation of concerns
+- Performance-oriented system design
+- Data-oriented design principles
+- Scalable architecture patterns for large codebases
+- Component-based design with well-defined interfaces
 - Asynchronous processing patterns
 - Plugin-based systems for extensibility
 - Cross-platform compatibility considerations
@@ -43,7 +65,6 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Vector embeddings for semantic search and retrieval
 - Computer vision and object detection models
 - Speech recognition and processing
-- Integration of ML models into production applications
 
 ## Featured Projects
 
@@ -80,13 +101,14 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Built with tracing for comprehensive logging and diagnostics
 
 ---
-### [Tree-Sitter-Cyber](https://github.com/instance-id/tree-sitter-cyber) (Rust/JavaScript)
+### [Tree-Sitter-Cyber](https://github.com/instance-id/tree-sitter-cyber) (Rust/C++/JavaScript)
 **Custom Parser for the Cyber Language**
 
 - Developed a complete Tree-sitter grammar for the Cyber scripting language
 - Created syntax highlighting queries for advanced code visualization
 - Implemented complex parsing rules to handle the language's unique syntax
 - Built support for editor integration across multiple platforms
+- Implemented a custom C++ scanner for handling complex language features
 
 **Technical Highlights:**
 - Created precise grammar definitions in JavaScript using Tree-sitter's DSL
@@ -94,6 +116,14 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Generated optimized Rust parser code from Tree-sitter grammar
 - Developed custom highlighting queries for semantic tokens
 - Built cross-platform compatibility with WASM compilation support
+- **Custom C++ Scanner Implementation:**
+  - Created a sophisticated lexer using Tree-sitter's external scanner API
+  - Implemented proper indentation-based scoping with indent/dedent token generation
+  - Developed robust string literal handling for single, double, and triple quotes
+  - Built support for multiline strings with appropriate delimiter tracking
+  - Implemented a delimiter stack system for proper nesting and context tracking
+  - Added debug facilities for development and troubleshooting
+  - Utilized modern C++ features for memory safety and performance
 
 ---
 ### [ProStream](https://github.com/instance-id/ProStream) (Unity/C# WIP Asset)
@@ -169,16 +199,31 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 ---
 ### [Voice Assistant](https://github.com/instance-id/voice_assistant) (C/Python/TS/JS)
 **Voice Command Processing System**
-- Developed a system for receiving and processing voice commands
-- Integrated with speech recognition technologies for accurate transcription
-- Created action handlers to respond to specific voice triggers
-- Built a modular system extensible for various home automation needs
+- Developed a distributed voice assistant system with components running on both edge devices (ESP32 Korvo 1) and server infrastructure
+- Implemented wake-word detection, voice command recognition, and natural language processing through a sophisticated pipeline
+- Created a hybrid processing system with on-device recognition for common commands and server-side processing for complex queries
+- Built integration with Home Assistant for comprehensive smart home control
+- Designed with both privacy and performance in mind through edge processing preferences
 
 **Technical Highlights:**
-- Low-latency audio processing pipeline
-- Whisper integration for high-quality speech recognition
-- Extensible plugin architecture for custom commands
-- Cross-platform compatibility for various operating systems
+- **Embedded Development:**
+  - ESP-IDF (Espressif IoT Development Framework) with C/C++ firmware implementation
+  - ESP Audio Front End (AFE) for audio processing
+  - ESP Speech Commands recognition engine for on-device processing
+  - Custom event handling for physical button controls and LED feedback
+
+- **Server-side Technologies:**
+  - Python with gRPC for efficient bidirectional streaming
+  - Faster-Whisper for state-of-the-art speech recognition
+  - Docker containerization for simplified deployment
+  - EMQX MQTT broker for reliable message distribution
+  - Websocket communication with Home Assistant for command execution
+
+- **Advanced Architecture:**
+  - Dual-path command processing for minimal latency with fallback capabilities
+  - Streaming audio processing that starts upon wake word detection
+  - Cancelable transcription when on-device matches are found
+  - Command list generation and synchronization between server and edge device
 
 ---
 ### [Searcher](https://github.com/instance-id/Searcher) (Python)
