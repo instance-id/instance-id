@@ -46,6 +46,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Integration of ML models into production applications
 
 ## Featured Projects
+---
 
 ### [Vectorizer](https://github.com/instance-id/vectorizer) (Rust)
 **Text Embedding Generator and Vector Database Integration**
@@ -64,6 +65,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Created command-line progress indicators with automatic refresh for better UX
 
 ### [Cyber Language Server](https://github.com/instance-id/cyber-language-server) (Rust)
+---
 **LSP Implementation for the Cyber Language**
 
 - Developed a full Language Server Protocol implementation in Rust
@@ -79,6 +81,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Built with tracing for comprehensive logging and diagnostics
 
 ### [Tree-Sitter-Cyber](https://github.com/instance-id/tree-sitter-cyber) (Rust/JavaScript)
+---
 **Custom Parser for the Cyber Language**
 
 - Developed a complete Tree-sitter grammar for the Cyber scripting language
@@ -94,6 +97,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Built cross-platform compatibility with WASM compilation support
 
 ### [NCM-RS](https://github.com/instance-id/ncm-rs) (Rust)
+---
 **Neovim Configuration Manager**
 
 - Built a Rust-based tool for managing multiple Neovim configurations
@@ -110,6 +114,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Followed best practices for command-line documentation and help text
 
 ### ProStream (Unity/C#)
+---
 **Advanced Unity Developer Tool for Scene Conversion and Streaming**
 
 - Created a comprehensive developer tool that automates the conversion of traditional GameObject scenes to DOTS entity subscenes
@@ -148,6 +153,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 
 
 ### [NotifyDB](https://github.com/instance-id/notifydb) (Rust)
+---
 **Linux Notification Database and Manager**
 
 - Created a Rust-based D-Bus notification store that captures and archives system notifications
@@ -175,6 +181,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Cross-platform compatibility for various operating systems
 
 ### [Searcher](https://github.com/instance-id/Searcher) (Python)
+---
 **Houdini Asset Search Tool**
 
 - Developed a specialized search tool for Houdini, enabling efficient content discovery
@@ -189,6 +196,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Optimized for performance with large asset libraries
 
 ### [Verifier](https://github.com/instance-id/verifier) (Python)
+---
 **Asset Verification System**
 
 - Developed a comprehensive verification system that integrates with Discord to validate legitimate asset purchases
@@ -203,6 +211,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Extensible design for adding new verification features
 
 ### [Camera Overlay System](https://github.com/instance-id/tracking_overlay) (Python)
+---
 **Advanced Visual Interface for Camera Feeds**
 
 - Created a customizable video feed overlay system with high-tech visual interface
@@ -218,6 +227,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Real-time video processing with optimized performance
 
 ### Computer Vision Projects
+---
 **Object Detection and Vision Processing Tools**
 
 - Developed multiple computer vision applications focusing on real-time object detection
