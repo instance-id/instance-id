@@ -95,24 +95,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Developed custom highlighting queries for semantic tokens
 - Built cross-platform compatibility with WASM compilation support
 
-### [NCM-RS](https://github.com/instance-id/ncm-rs) (Rust)
----
-**Neovim Configuration Manager**
-
-- Built a Rust-based tool for managing multiple Neovim configurations
-- Implemented symlink-based configuration switching with automatic backups
-- Created a command-line interface for easy management of configurations
-- Developed cross-platform compatibility for Linux and Windows
-
-**Technical Highlights:**
-- Designed a modular architecture with clear separation of concerns
-- Implemented advanced configuration management with lazy_static and RwLock
-- Created cross-platform abstractions for file paths using custom environment variable detection
-- Leveraged clap for parser-based CLI design similar to modern Rust CLI tools
-- Implemented comprehensive error handling with anyhow and Result propagation
-- Followed best practices for command-line documentation and help text
-
-### ProStream (Unity/C#)
+### ProStream (Unity/C# WIP Asset)
 ---
 **Advanced Unity Developer Tool for Scene Conversion and Streaming**
 
@@ -149,6 +132,23 @@ My work demonstrates particular strength in creating efficient, user-friendly to
   - Developed intelligent issue detection with automated fix suggestions and one-click repair options
   - Incorporated asynchronous search capabilities using Unity's SearchService for performant project-wide scanning
   - Implemented robust error reporting with detailed contextual information for resolving conversion issues
+
+### [NCM-RS](https://github.com/instance-id/ncm-rs) (Rust)
+---
+**Neovim Configuration Manager**
+
+- Built a Rust-based tool for managing multiple Neovim configurations
+- Implemented symlink-based configuration switching with automatic backups
+- Created a command-line interface for easy management of configurations
+- Developed cross-platform compatibility for Linux and Windows
+
+**Technical Highlights:**
+- Designed a modular architecture with clear separation of concerns
+- Implemented advanced configuration management with lazy_static and RwLock
+- Created cross-platform abstractions for file paths using custom environment variable detection
+- Leveraged clap for parser-based CLI design similar to modern Rust CLI tools
+- Implemented comprehensive error handling with anyhow and Result propagation
+- Followed best practices for command-line documentation and help text
 
 
 ### [NotifyDB](https://github.com/instance-id/notifydb) (Rust)
