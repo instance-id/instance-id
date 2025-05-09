@@ -271,7 +271,7 @@ My work demonstrates particular strength in creating efficient, user-friendly to
 - Docker support for various hardware platforms
 - Real-time video processing with optimized performance
 
----https://github.com/instance-id/instance-id/blob/main/personal_project_portfolio.md
+---
 ### Computer Vision Projects
 **Object Detection and Vision Processing Tools**
 
